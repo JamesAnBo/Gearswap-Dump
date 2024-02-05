@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Trishula", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Knobkierrie",
+    head="Flam. Zucchetto +2",
+    body={ name="Gleti's Cuirass", augments={'Path: A',}},
+    hands="Sulev. Gauntlets +2",
+    legs="Sulev. Cuisses +2",
+    feet="Flam. Gambieras +2",
+    neck={ name="Dgn. Collar +2", augments={'Path: A',}},
+    waist="Fotia Belt",
+    left_ear="Sherida Earring",
+    right_ear={ name="Moonshade Earring", augments={'"Mag.Atk.Bns."+4','TP Bonus +250',}},
+    left_ring="Regal Ring",
+    right_ring="Niqmaddu Ring",
+    back={ name="Brigantia's Mantle", augments={'STR+20','Accuracy+20 Attack+20','STR+10','"Dbl.Atk."+10','Phys. dmg. taken-10%',}},
+}

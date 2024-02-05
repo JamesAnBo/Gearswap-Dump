@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Bunzi's Rod", augments={'Path: A',}},
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head="Theophany Cap +3",
+    body="Theo. Bliaut +3",
+    hands="Theophany Mitts +3",
+    legs={ name="Chironic Hose", augments={'Pet: "Subtle Blow"+4','Mag. Acc.+24','Accuracy+7 Attack+7','Mag. Acc.+16 "Mag.Atk.Bns."+16',}},
+    feet="Theo. Duckbills +3",
+    neck="Erra Pendant",
+    waist="Luminary Sash",
+    left_ear="Regal Earring",
+    right_ear="Malignance Earring",
+    left_ring="Stikini Ring +1",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Alaunus's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','MND+10','"Fast Cast"+10','Damage taken-5%',}},
+}

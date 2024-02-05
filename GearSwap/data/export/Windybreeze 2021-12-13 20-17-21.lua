@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head={ name="Amalric Coif +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    body={ name="Merlinic Jubbah", augments={'Weapon skill damage +2%','Mag. Acc.+30','Accuracy+18 Attack+18','Mag. Acc.+18 "Mag.Atk.Bns."+18',}},
+    hands={ name="Kaykaus Cuffs +1", augments={'MP+80','MND+12','Mag. Acc.+20',}},
+    legs={ name="Chironic Hose", augments={'Pet: "Subtle Blow"+4','Mag. Acc.+24','Accuracy+7 Attack+7','Mag. Acc.+16 "Mag.Atk.Bns."+16',}},
+    feet="Malignance Boots",
+    neck={ name="Dls. Torque +2", augments={'Path: A',}},
+    waist={ name="Obstin. Sash", augments={'Path: A',}},
+    left_ear="Malignance Earring",
+    right_ear="Vor Earring",
+    left_ring="Kishar Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Sucellos's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+1','"Mag.Atk.Bns."+2',}},
+}
